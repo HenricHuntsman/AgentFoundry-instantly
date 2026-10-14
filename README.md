@@ -35,17 +35,17 @@ This is **NOT just another coding assistant**. This is a **complete, professiona
 
 #### 🐧 **Linux / 🍎 macOS**
 ```bash
-curl -fsSL https://raw.githubusercontent.com/SpidermanTotro/AgentFoundry-instantly/genspark_ai_developer/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/HenricHuntsman/AgentFoundry-instantly/genspark_ai_developer/install.sh | bash
 ```
 
 #### 🪟 **Windows**
 ```powershell
-irm https://raw.githubusercontent.com/SpidermanTotro/AgentFoundry-instantly/genspark_ai_developer/install.ps1 | iex
+irm https://raw.githubusercontent.com/HenricHuntsman/AgentFoundry-instantly/genspark_ai_developer/install.ps1 | iex
 ```
 
 #### 🐳 **Docker**
 ```bash
-git clone https://github.com/SpidermanTotro/AgentFoundry-instantly.git
+git clone https://github.com/HenricHuntsman/AgentFoundry-instantly.git
 cd AgentFoundry-instantly
 git checkout genspark_ai_developer
 docker-compose up -d
@@ -53,7 +53,7 @@ docker-compose up -d
 
 #### 💻 **Development Mode**
 ```bash
-git clone https://github.com/SpidermanTotro/AgentFoundry-instantly.git
+git clone https://github.com/HenricHuntsman/AgentFoundry-instantly.git
 cd AgentFoundry-instantly
 git checkout genspark_ai_developer
 npm install
@@ -191,7 +191,7 @@ Universal Support
 ### **Development**
 ```bash
 # Clone repository
-git clone https://github.com/SpidermanTotro/AgentFoundry-instantly.git
+git clone https://github.com/HenricHuntsman/AgentFoundry-instantly.git
 cd AgentFoundry-instantly
 git checkout genspark_ai_developer
 
@@ -399,8 +399,8 @@ This project is licensed under the **ISC License** - see LICENSE file for detail
 
 ## 📧 Support
 
-- 🐛 **Bug Reports**: [Create an issue](https://github.com/SpidermanTotro/AgentFoundry-instantly/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/SpidermanTotro/AgentFoundry-instantly/discussions)
+- 🐛 **Bug Reports**: [Create an issue](https://github.com/HenricHuntsman/AgentFoundry-instantly/issues)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/HenricHuntsman/AgentFoundry-instantly/discussions)
 - 📖 **Documentation**: See [INSTALL.md](./INSTALL.md) and [GENSPARK_FEATURES.md](./GENSPARK_FEATURES.md)
 
 ---
@@ -422,9 +422,9 @@ This project is licensed under the **ISC License** - see LICENSE file for detail
 
 ### **🚀 Ready to revolutionize your coding experience?**
 
-[![Install Now](https://img.shields.io/badge/Install-Now-blue?style=for-the-badge&logo=download)](https://github.com/SpidermanTotro/AgentFoundry-instantly/blob/genspark_ai_developer/INSTALL.md)
+[![Install Now](https://img.shields.io/badge/Install-Now-blue?style=for-the-badge&logo=download)](https://github.com/HenricHuntsman/AgentFoundry-instantly/blob/genspark_ai_developer/INSTALL.md)
 [![Try Live Demo](https://img.shields.io/badge/Try-Live_Demo-green?style=for-the-badge&logo=rocket)](https://3002-ibkwqvk5kfduhha5af04b-b9b802c4.sandbox.novita.ai)
-[![View Pull Request](https://img.shields.io/badge/View-Pull_Request-orange?style=for-the-badge&logo=github)](https://github.com/SpidermanTotro/AgentFoundry-instantly/pull/1)
+[![View Pull Request](https://img.shields.io/badge/View-Pull_Request-orange?style=for-the-badge&logo=github)](https://github.com/HenricHuntsman/AgentFoundry-instantly/pull/1)
 
 **Built with ❤️ by the community, for the community**
 

@@ -57,9 +57,11 @@ The existing CI checks runtime-script syntax, guarded chat tools, the Vite build
 | `test/`, `scripts/` | Automated checks and startup helpers |
 | `electron.js`, `preload.js` | Desktop wrapper |
 | `genspark-2.0/`, `genspark-ai-developer/`, `forge-spark-mvp/` | Separate historical experiments; maturity must be assessed individually |
-| `README.legacy.md` | Preserved earlier promotional README |
-| Root status/completion reports | Historical reports, not current acceptance evidence |
+| [`docs/history/README.legacy.md`](docs/history/README.legacy.md) | Preserved earlier promotional README |
+| `docs/history/` | Historical reports, not current acceptance evidence |
 
 Internal package identifiers and build-resource paths remain unchanged to preserve compatibility. See [AGENTS.md](AGENTS.md) for development constraints.
 
 *Status reviewed 18 October 2026. No RC/RTM qualification or universal installer claim is made.*
+
+See [current folder and recovery guide](docs/PROJECT-GUIDE.md). Historical reports have been moved out of the root.

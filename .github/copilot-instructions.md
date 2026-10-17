@@ -6,7 +6,7 @@ AgentFoundry's active root project is a JavaScript web and Electron desktop appl
 
 - Work from the repository root unless the issue explicitly names a nested project.
 - Treat package.json, package-lock.json, vite.config.js, .github/workflows/ci.yml, and currently imported source code as authoritative.
-- Root status reports and feature-completion Markdown files may describe older or aspirational states. Verify claims against executable code.
+- Historical status reports under docs/history/ may describe older or aspirational states. Verify claims against executable code.
 - Do not edit nested prototypes such as genspark-2.0/, genspark-ai-developer/, github-2.0/, forge-spark-mvp/, or ai-suite-pro-mobile/ unless the task specifically targets them.
 - Do not modify *.backup*, generated output, archives, dist/, dist-electron/, or node_modules/.
 - Do not add new completion/status reports unless the issue requests that documentation.
@@ -82,7 +82,7 @@ npm run build
 
 Also run node --check on every changed CommonJS script.
 
-There is currently no root unit-test or lint script. Do not run or report nonexistent npm test or npm run lint checks.
+The root npm test script runs guarded chat-tool and client-helper checks. Run npm test for relevant changes. There is no root lint script; do not report npm run lint.
 
 When relevant:
 

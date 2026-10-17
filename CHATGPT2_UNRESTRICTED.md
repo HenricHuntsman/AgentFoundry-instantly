@@ -1,3 +1,5 @@
+> Historical project note — current qualification is documented in README.md. Completion percentages, platform promises and feature counts below have not been revalidated.
+
 # 🚀 ChatGPT 2.0 UNRESTRICTED - The Ultimate AI Assistant
 
 ## 🎉 **ALL ChatGPT Features + Features ChatGPT CAN'T Do**

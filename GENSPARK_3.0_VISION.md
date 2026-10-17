@@ -1,3 +1,5 @@
+> Historical project note — current qualification is documented in README.md. Completion percentages, platform promises and feature counts below have not been revalidated.
+
 # 🚀 GENSPARK 3.0 - THE ULTIMATE UPGRADE
 
 ## From GenSpark 2.0 → 3.0: Revolutionary Features

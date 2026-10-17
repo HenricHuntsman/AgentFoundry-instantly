@@ -1,3 +1,5 @@
+> Historical project note — current qualification is documented in README.md. Completion percentages, platform promises and feature counts below have not been revalidated.
+
 # REAL FILES THAT ACTUALLY EXIST
 
 ## Total Code: 8,038 Lines

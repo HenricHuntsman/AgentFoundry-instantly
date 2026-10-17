@@ -1,3 +1,5 @@
+> Historical project note — current qualification is documented in README.md. Completion percentages, platform promises and feature counts below have not been revalidated.
+
 # 🎉 MERGE COMPLETE - All Features Unified!
 
 ## ChatGPT 2.0 UNRESTRICTED - Complete Unified Program

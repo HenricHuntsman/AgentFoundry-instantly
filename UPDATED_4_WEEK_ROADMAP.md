@@ -1,3 +1,5 @@
+> Historical project note — current qualification is documented in README.md. Completion percentages, platform promises and feature counts below have not been revalidated.
+
 # 🚀 UPDATED 4-Week Roadmap - With TV/Radio Streaming
 
 **Date:** 2025-12-06  

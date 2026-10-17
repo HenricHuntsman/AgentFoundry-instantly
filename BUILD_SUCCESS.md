@@ -1,3 +1,5 @@
+> Historical project note — current qualification is documented in README.md. Completion percentages, platform promises and feature counts below have not been revalidated.
+
 # 🎉 BUILD SUCCESS - REAL WORKING SYSTEMS
 
 ## ✅ WHAT WAS BUILT AND TESTED

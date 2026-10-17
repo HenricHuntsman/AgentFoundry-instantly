@@ -1,3 +1,5 @@
+> Historical project note — current qualification is documented in README.md. Completion percentages, platform promises and feature counts below have not been revalidated.
+
 # 📺 TV & Radio Streaming/Recording System - Complete Plan
 
 **User Request:** "Add German tv and Australia streams of tv and radio without having to pay plus USA recorder epg and all wanna watch like bindas Luca and all we'll make a tv dab plus recorder like Audials"

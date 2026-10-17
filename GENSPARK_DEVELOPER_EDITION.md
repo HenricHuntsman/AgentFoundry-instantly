@@ -1,3 +1,5 @@
+> Historical project note — current qualification is documented in README.md. Completion percentages, platform promises and feature counts below have not been revalidated.
+
 # 🔥 GENSPARK DEVELOPER EDITION - NEXT-GEN AI CODING PLATFORM
 
 ## The Most Advanced AI Developer Tool Ever Created

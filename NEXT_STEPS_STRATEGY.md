@@ -1,3 +1,5 @@
+> Historical project note — current qualification is documented in README.md. Completion percentages, platform promises and feature counts below have not been revalidated.
+
 # 🎯 NEXT STEPS STRATEGY - What to Build Next
 
 **Date:** 2025-12-06  

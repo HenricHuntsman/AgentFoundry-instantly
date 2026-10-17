@@ -1,3 +1,5 @@
+> Historical project note — current qualification is documented in README.md. Completion percentages, platform promises and feature counts below have not been revalidated.
+
 # 🗺️ FEATURES LOCATION MAP - WHERE EVERYTHING IS
 
 **You asked:** "where is the chat gpt export tool and the reverse engineering of games"

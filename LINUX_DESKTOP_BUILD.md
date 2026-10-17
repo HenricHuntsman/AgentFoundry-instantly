@@ -1,3 +1,5 @@
+> Historical project note — current qualification is documented in README.md. Completion percentages, platform promises and feature counts below have not been revalidated.
+
 # Linux Desktop Application Build Guide
 
 ## ChatGPT 2.0 UNRESTRICTED - Linux Desktop Version

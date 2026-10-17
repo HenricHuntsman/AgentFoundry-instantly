@@ -1,3 +1,5 @@
+> Historical project note — current qualification is documented in README.md. Completion percentages, platform promises and feature counts below have not been revalidated.
+
 # 🔍 Conversation Merger Check - Did We Skip Anything?
 
 ## ✅ WHAT WE BUILT TODAY (Dec 6, 2024):

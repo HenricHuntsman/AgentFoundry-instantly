@@ -157,7 +157,7 @@ Before considering any change complete:
 - CI installs from the committed npm lockfile with `npm ci`
 - CI checks runtime script syntax and builds the Vite application
 - CI tests both success and timeout paths of `scripts/wait-for-server.js`
-- There is currently no root unit-test or lint script; do not report nonexistent checks
+- The root `npm test` script runs guarded chat-tool and client helper tests. There is no root lint script; do not report nonexistent checks
 - Add focused automated tests when a change introduces logic that can be tested reliably
 
 ## Security Mindset

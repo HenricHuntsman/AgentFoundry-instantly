@@ -18,7 +18,7 @@ jobs:
       - name: Install Linux build prerequisites
         run: |
           sudo apt-get update
-          sudo apt-get install -y --no-install-recommends libarchive-tools rpm libgtk-3-0 libnss3 libasound2t64 libgbm1 libxtst6 libxss1 libsecret-1-dev libcairo2-dev libpango1.0-dev libjpeg-dev libgif-dev librsvg2-dev
+          sudo apt-get install -y --no-install-recommends libxi-dev libxext-dev libx11-dev libgl1-mesa-dev pkg-config libarchive-tools rpm libgtk-3-0 libnss3 libasound2t64 libgbm1 libxtst6 libxss1 libsecret-1-dev libcairo2-dev libpango1.0-dev libjpeg-dev libgif-dev librsvg2-dev
       - run: npm ci
       - run: npm test
       - name: Build Linux packages without publishing
